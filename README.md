@@ -1,2 +1,2 @@
 # Voting-App
-Blockchain
+Create smart contract for decentralized voting
